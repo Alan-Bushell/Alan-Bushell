@@ -32,6 +32,8 @@
 
   <a href="https://twitter.com/BushmanWebDev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/BushmanWebDev.svg?style=social&label=Follow%20%40BushmanWebDev)](https://twitter.com/BushmanWebDev)
 
   ## &#x1f4c8; GitHub Stats
 
@@ -62,7 +64,7 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Bushell23/Bushell23/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
