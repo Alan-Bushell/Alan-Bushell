@@ -4,18 +4,25 @@ Tech I use:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
 )
-  
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
 )
-  
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<HTML>&logoColor=white&color=#f0db4f
+) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
+) 
+![](https://img.shields.io/badge/Code-mySQL-informational?style=flat&logo=<HTML>&logoColor=white&color=00758f
 )
   
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
-)
+Frameworks & librarys I work with:
   
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
 )
+![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<HTML>&logoColor=white&color=B24926
+)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<HTML>&logoColor=white&color=f0db4f
+) 
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
+) 
   
 Let's Connect
   <a href="https://twitter.com/BushmanWebDev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
