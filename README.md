@@ -1,30 +1,35 @@
-### Hi there 👋
+## Hi there 👋
 
-Tech I use:
+### My name is Alan.
+
+#### Thank you for visiting my Github Profile!
+
+### Tech I use:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<HTML>&logoColor=white&color=f06529
 )
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
 )
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<HTML>&logoColor=white&color=#f0db4f
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<HTML>&logoColor=white&color=f0db4f
 ) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
 ) 
 ![](https://img.shields.io/badge/Code-mySQL-informational?style=flat&logo=<HTML>&logoColor=white&color=00758f
 )
-  
-Frameworks & librarys I work with:
+
+### Frameworks & librarys I work with:
   
 ![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=<HTML>&logoColor=white&color=264de4
 )
 ![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=<HTML>&logoColor=white&color=B24926
 )
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<HTML>&logoColor=white&color=f0db4f
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<HTML>&logoColor=white&color=3cbd0d
 ) 
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<HTML>&logoColor=white&color=4B8BBE
 ) 
   
-Let's Connect
+### Let's Connect:
+
   <a href="https://twitter.com/BushmanWebDev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
@@ -66,7 +71,7 @@ Let's Connect
 [2]: https://github.com/Alan-Bushell
 [3]: https://www.linkedin.com/Bushell23
   
-#Latest Tweets:
+## Latest Tweets:
   
   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BushmanWebDev)](https://github.com/gazf/github-readme-twitter)
 
