@@ -69,13 +69,8 @@
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/BushmanWebDev
 [2]: https://github.com/Alan-Bushell
 [3]: https://www.linkedin.com/Bushell23
-  
-## Latest Tweets:
-  
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BushmanWebDev)](https://github.com/gazf/github-readme-twitter)
 
 
 
