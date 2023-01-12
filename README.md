@@ -30,10 +30,7 @@
   
 ### Let's Connect:
 
-  <a href="https://twitter.com/BushmanWebDev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/BushmanWebDev.svg?style=social&label=Follow%20%40BushmanWebDev)](https://twitter.com/BushmanWebDev)
+
 
   ## &#x1f4c8; GitHub Stats
 
