@@ -2,7 +2,7 @@
 
 ### My name is Alan.
 
-#### Thank you for visiting my Github Profile!
+#### I am currently a Site Reliability Engineer Apprentice @ Google
 
 ### Tech I use:
 
