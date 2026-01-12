@@ -2,8 +2,6 @@
 
 ### Site Reliability Engineer Apprentice @ Google | Ex-Full Stack Mentor @ Code Institute
 
-> "Hope is not a strategy. Reliability is a deliberate, engineered outcome."
-
 I'm an SRE Apprentice focused on **system reliability**, **scalability**, and **automation** at Google. My background as a **Full Stack Development Mentor** gives me a comprehensive understanding of the entire software lifecycle, from initial code to production stability. I'm passionate about building robust, high-performing systems and minimizing toil through infrastructure-as-code and cloud tooling.
 
 ---
